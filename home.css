@@ -1,0 +1,162 @@
+body
+{
+	background-color:#ffba66 ;
+	background-image:url("bg.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 100% 100%;
+	font-family:sans-serif;
+}
+.left
+{
+background-color:#ffba66;
+}
+.menu
+{
+	 display:flex;  
+     list-style:none;
+      white-space: nowrap
+
+}
+ .donor
+{
+	width: 250px;
+    padding-left: 30px;
+	letter-spacing: 1px;
+	background-color:#ffba66;
+	height: 200px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+}
+ul.menu li{
+  width: 250px;
+  float: left;
+}
+.menu a
+{
+	text-decoration: none;
+	color: red;
+	font-size: 30px;
+}
+.menu a:hover 
+{ 
+	color:#33348e;
+ 	text-decoration: none; 
+ }
+ .third
+ {
+ 	padding-left:`800px;
+ 	margin-top: -200px;
+        margin-left: 0 auto;
+        margin-right: 0 auto;
+ 	width: 600px;
+ 	height: 300px;
+ 	float: right;
+   -moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+        text-align: center;	
+  }
+ 
+ .third a
+ {
+ 	color: red;
+ 	text-decoration:none;
+ }
+.third img
+{
+	
+	float: right;
+	width: 150px;
+	height: 150px; 
+	margin-top: -205px;
+}
+.facts 
+{
+	width: 250px;
+    padding-left: 30px;
+	height: 175px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	
+    color:#ffffff;
+}
+.facts a
+{
+	text-decoration: none;
+	color: red;
+}
+.facts h3
+{
+	margin-top: 10px;
+	text-align: center;
+}
+.facts img
+{
+float :left;
+
+width:70px;
+height:70px;
+}
+.tips 
+{
+	width: 250px;
+    padding-left: 30px;
+	height: 175px;
+	float:right;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	color:#ffba66;
+}
+.tips a
+{
+	text-decoration: none;
+	color: #ffffff;
+}
+.tips h3
+{
+	margin-top: 10px;
+	text-align: center;
+}
+.tips img
+{   margin-top: -30px;
+	width: 50px;
+	height: 50px;
+}
+.speak
+{
+	
+	height: 150px;
+	width:850px;
+   -moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	color:#ffba66;
+}
+.speak p
+{
+	float: center;
+}
+.tipscss
+{
+color:#ffffff;
+}
+.contact
+{
+color:#ffffff;
+}
+.vide h1
+{
+color:#ffba66;
+}
+.search
+{
+color:#ffffff;
+}
+
+
+
+
